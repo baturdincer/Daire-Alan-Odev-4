@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DaireAlan {
+public class DaireAciliAlani {
     public static void main(String[] args) {
         Scanner scanner= new Scanner(System.in);
         double angle, radius, area,pi;
